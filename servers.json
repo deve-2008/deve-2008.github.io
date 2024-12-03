@@ -1,54 +1,12 @@
 {
   "servers": [
     {
-      "name": "SideStore",
-      "address": "https://ani.sidestore.io"
+      "name": "Rendr",
+      "address": "https://anisette-v3-server-w132.onrender.com/"
     },
     {
-      "name": "SideStore (.zip)",
-      "address": "https://ani.sidestore.zip"
-    },
-    {
-      "name": "SideStore (.xyz)",
-      "address": "https://ani.846969.xyz"
-    },
-    {
-      "name": "Stern",
-      "address": "http://ani.sternserv.xyz"
-    },
-    {
-      "name": "Macley",
-      "address": "http://5.249.163.88:6969"
-    },
-    {
-      "name": "WesleyBryie",
-      "address": "https://ani.wesbryie.com"
-    },
-    {
-      "name": "SeasiDev",
-      "address": "https://anisette.seasi.dev"
-    },
-    {
-      "name": "SteX",
-      "address": "https://ani.xu30.top"
-    },
-    {
-      "name": "owoellen",
-      "address": "https://ani.owoellen.rocks"
-    },
-    {
-      "name": "pythonplayer123",
-      "address": "https://ani3server.fly.dev"
-    },
-    {
-      "name": "iDH Server",
-      "address": "https://ani.idevicehacked.com"
-    },
-    {
-      "name": "StikTech",
-      "address": "https://ani.stik.tech"
+      "name": "Godfalls",
+      "address": "https://home.godfalls.com:1123/"
     }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
+  ]
 }
-高速下载
